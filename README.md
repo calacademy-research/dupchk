@@ -1,7 +1,6 @@
 # dupchk
 
-Contents
-
+### Contents
 README.md : this README  
 dupchk.go : Go source code  
   
