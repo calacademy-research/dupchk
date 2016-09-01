@@ -1,5 +1,6 @@
 # dupchk
-
+dupchk is a tool to check a sequence file in FASTA or FASTQ format for duplicate sequences
+  
 ### Contents
 README.md : this README  
 dupchk.go : Go source code  
