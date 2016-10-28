@@ -29,3 +29,6 @@ Usage: dupchk [[-n <NtopDups>] [fa]] <filename.fq>
 #### Authorship
 Code author: James B. Henderson, jhenderson@calacademy.org  
 README.md authors: Zachary R. Hanna, James B. Henderson  
+
+#### Version 1.0.0
+[![DOI](https://zenodo.org/badge/67077965.svg)](https://zenodo.org/badge/latestdoi/67077965)
